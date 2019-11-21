@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eed67946-5f7c-4806-b40e-0199f360ab48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fire_keys/mewords-test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fire_keys/mewords.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
