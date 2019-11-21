@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="BOT_TOKEN" value="959258103:AAEuOcmFis64xZ1IFK0FspLE_epkcBFBcxs" />
+      <env key="BOT_TOKEN_TEST" value="914051322:AAF2l8Ods2T1s7w-TYoCQtZpkAAEqs-VEIk" />
+    </envs>
+  </component>
+</project>
